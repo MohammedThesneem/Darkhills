@@ -1,0 +1,280 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.firstround{
+    background-color: red;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.list {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.flex{
+    position: absolute;
+    text-align: center;
+     display: flex;
+     width: 100%;
+     top: 0;
+     left: 0;
+     justify-content: space-between;
+     align-items: center;
+     
+
+}
+.links {
+    display: flex;
+}
+.links p{
+    cursor: pointer;
+    margin-left: 40px;
+    color: white !important;
+    font-family: system-ui;
+    font-size: 0.985rem;
+    font-weight: 900;
+}
+.shape{
+    width: 155px;
+    height: 157px;
+    position: relative;
+
+}
+.shape1{
+    width: 140px;
+    height: 133px;
+
+}
+.roll{
+    width: 131px;
+    height: 36px;
+   
+    border-radius: 28px;
+    border: 3px solid white;
+    font-family: system-ui;
+    font-weight: 900;
+    background-color: transparent;
+    color: aliceblue;
+    cursor: pointer;
+}
+h1{
+    font-size: 4rem;
+    font-family: system-ui;
+    font-weight: 800;
+    line-height: 57px;
+    color: white;
+    
+}
+.hdd{
+    font-family: system-ui;
+    font-size: 1.6rem;
+    color: aliceblue;
+}
+.detail {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+}
+.roll1{
+    margin-top: -80px;
+    margin-left: 40%;
+    
+}
+.sign1{
+    margin-top: -122px;
+    margin-left: 287px;
+    cursor: pointer;
+}
+.sign{
+    width: 135px;
+    height: 39px;
+    border-radius: 28px;
+    font-family: system-ui;
+    font-weight: 900;
+   
+    border: 3px solid white;
+    color: brown;
+}
+.learn{
+    
+    margin-left:200px ;
+    margin-top: -28px;
+    font-family: system-ui;
+    font-weight: 700;
+    font-size: 0.975rem;
+    color: aliceblue;  
+}
+.position2{
+    background-color: black;
+    width: 100vw;
+    height: 400px;
+}
+.pos{
+    width: 360px;
+    height: fit-content;
+    margin-left: 239px;
+}
+h2{
+    margin-left:725px ;
+    margin-top: -290px;
+    color: aliceblue;
+    font-family: system-ui;
+    font-weight: 800;
+    font-size: 2.500rem;
+}
+h3{
+    color: aliceblue;
+    margin-left: 725px;
+    line-height: 34px;
+    font-weight: 500;
+    font-size: 1.500rem;
+    font-family: system-ui;
+}
+.explore{
+    width: 200px;
+    height: 46px;
+    border-radius: 28px;
+    font-family: system-ui;
+    font-weight: 900;
+    margin-left: 723px;
+   
+    border: 3px solid white;
+    color: brown;
+}
+.position3{
+    background-color: rgb(194, 50, 50);
+    width: 100vw;
+    height: 400px;
+}
+.posi{
+    width: 600px;
+    height: 400px;
+    margin-left: 750px;
+}
+.flavor{
+    color: aliceblue;
+    margin-left: 100px;
+    font-weight: 800;
+    font-size: 2rem;
+    font-family: system-ui;
+    margin-top: -340px;
+}
+.merch{
+    color: aliceblue;
+    line-height: 33px;
+    font-weight: 500;
+    font-size: 1.500rem;
+    font-family: system-ui;
+    margin-left: 100px;
+}
+.shop{
+    width: 160px;
+    height: 46px;
+    border-radius: 28px;
+    font-family: system-ui;
+    font-weight: 900;
+    margin-left: 100px;
+   
+    border: 3px solid white;
+    color: brown;
+}
+
+.position4{
+    background-color:aliceblue;
+    width: 100vw;
+    height: 2px;
+
+}
+.footer{
+    background-color:rgb(123, 26, 26);
+    width: 100vw;
+    height: 289px;
+}
+.centre{
+    background-color:aliceblue;
+    width: 100vw;
+    height: 2px;
+    position: relative;
+    top: 170px;
+}
+.pic{
+    width: 70px;
+    height: 127px;
+    margin-left: 70px;
+}
+.down{
+    margin-left:70px ;
+    margin-top: -28px;
+    font-family: system-ui;
+    font-weight: 700;
+    font-size: 0.975rem;
+    color: aliceblue;  
+}
+.left{
+    color: aliceblue;
+    font-family: system-ui;
+    font-size: 0.800rem;
+    margin-top: 100px;
+    margin-left: 68px;
+}
+.right{
+    color: aliceblue;
+    font-family: system-ui;
+    font-size: 0.800rem;
+    margin-top: -20px;
+    margin-left: 1150px;
+}
+.point{
+    color: aliceblue;
+    font-size: .985rem;
+    font-family: system-ui;
+    margin-left: 270px;
+    margin-top: -225px;
+    line-height: 2px;
+}
+.nam{
+    color: aliceblue;
+    font-size: .985rem;
+    font-family: system-ui;
+    line-height: 18px;
+    margin-left: 440px;
+    position: relative;
+    top: -42px;
+    font-weight: inherit;
+}
+.su{
+    color: aliceblue;
+    font-size: .985rem;
+    font-family: system-ui;
+    line-height: 18px;
+    margin-left: 650px;
+    position: relative;
+    top: -142px;
+    font-weight: inherit; 
+}
+.tside{
+    color: aliceblue;
+    font-size: .985rem;
+    font-family: system-ui;
+    line-height: 18px;
+    margin-left: 900px;
+    position: relative;
+    top: -242px;
+    font-weight: inherit;   
+}
+.icon{
+    margin-top: -261px;
+    margin-left: 1200px;
+    
+}
+.inst{
+    margin-left: 26px;
+}
+
+
